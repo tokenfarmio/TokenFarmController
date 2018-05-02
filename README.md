@@ -29,7 +29,7 @@ Simply your mining operation by monitoring with Token Farm.
 3. [Download](http://199.59.98.137/crypto/setup.exe) - Latest version of TokenFarm Controller (windows) 
 4. Install and follow instructions to enter your API Key.
 5. Login to http://tokenfarm.io Dashboard
-6. Download [iPhone](http://tokenfarm.io/wp-content/themes/landkit/library/images/download-on-the-app-store.svg) and [Android](https://play.google.com/store/apps/details?id=com.crmboost.tokenfarm) apps.
+6. Download [iPhone](http://tokenfarm.io/wp-content/themes/landkit/library/images/download-on-the-app-store.svg) and [Android](https://play.google.com/store/apps/details?id=com.crmboost.tokenfarm) apps to Monitor from your phone.
 
 ### Prerequisites
 
